@@ -1,5 +1,9 @@
 # nginx-settings
 
+
+
+![NGİNX Settings!](/assets/nginx.png "NGİNX All Settings ")
+
 - **listen  80**                            --> server listen port
 
 - **root /var/www/html**                    --> working directory in proje

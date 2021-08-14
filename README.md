@@ -7,3 +7,4 @@
 
 
 - index index.php index.html index.htm   --> direct in domain name working file 
+- server_name example.com                --> domain name

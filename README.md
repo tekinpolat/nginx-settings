@@ -2,7 +2,7 @@
 
 
 
-![NGİNX Settings!](assets/nginx.png "NGİNX All Settings ")
+![NGİNX Settings!](images/nginx.png "NGİNX All Settings ")
 
 - **listen  80**                            --> server listen port
 

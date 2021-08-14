@@ -2,7 +2,7 @@
 
 
 
-![NGİNX Settings!](images/nginx.png "NGİNX All Settings ")
+![NGINX Settings!](images/nginx.png "NGINX All Settings ")
 
 - **listen  80**                            --> server listen port
 
@@ -12,3 +12,5 @@
 
 - **index index.php index.html index.htm**   --> direct in domain name working file 
 - **server_name example.com**                --> domain name
+
+![NGINX Service!](images/nignx-service.png "NGINX Service ")

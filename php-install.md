@@ -19,3 +19,7 @@
 > which php `=>/usr/bin/php`
 
 > php -v `=>php --version`
+
+
+## Kaynakça :
+[1 - Linuxize](https://linuxize.com/post/how-to-install-php-on-ubuntu-20-04/)

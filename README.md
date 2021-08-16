@@ -18,3 +18,5 @@
 - **server_name example.com**                --> domain adı
 
 ![NGINX Service!](images/nignx-service.png "NGINX Service ")
+
+![NGINX Service Stop and Status!](images/nginx-stop.png "NGINX Service Stop and Status")
